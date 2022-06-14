@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    background:#b8b0cd;
+}
+
+.cardstyles {
+    text-align: center;
+}
+
+.card-header {
+    background:#755bb5;
+   
+}
+
+.card-header p { 
+        margin-top: 16px;
+        color: #fafafa;
+      
+}
+
+.card-body hr  {
+    margin: 0px;
+}
